@@ -1,0 +1,76 @@
+.custom_buttons_div { padding-left: 15px;}
+.custom_header {padding-left: 10px; padding-top: 8px;}
+.error { color: red; }
+.add_btn { position: relative; float: right; bottom: 70px;}
+
+#new_app_bill, #new_status_changed_bill {
+    line-height: 12px;
+    padding: 2px 5px;
+    position: absolute;
+    right: 7px;
+    top: 7px
+}
+
+.add_btn_for_job_detail { position: relative; float: right; bottom: 0;}
+
+.failed_span { color: red; padding-top: 5px; margin-bottom: 0;}
+
+.stats_blue {
+    color: #337AB7;
+}
+.stats_green {
+    color: #5CB85C;
+}
+.stats_red {
+    color: #D9534F;
+}
+.hidden_li_of_sidebar {
+    padding: 10px !important;
+}
+.see_all_ntf_li {
+    border-top: 1px solid #e5e5e5; padding-top: 5px; margin-top: 8px;
+}
+
+.green { background-color: #88E488 !important;}
+
+tr.no_decoration a { text-decoration: none;}
+
+.employee-ntf-ul { }
+
+.see_all_ntf_li { margin-top: 0; padding-bottom: 5px;}
+
+.mb-0 { margin-bottom: 0 !important;}
+
+.dropdown-menu .divider { margin: 8px 0;}
+
+
+/*drag and drop input styles ----------start*/
+form p.drag{
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    line-height: 100px;
+    color: black;
+}
+.drag_input_label {
+    cursor: pointer;
+    width: 100%;
+}
+form input.drag_image{
+    position: absolute;
+    margin: 0;
+    padding: 0;
+    width: 95%;
+    height: 15%;
+    outline: none;
+    opacity: 0;
+    cursor: pointer;
+    border-radius: 5px;
+}
+.drag_form_group {
+    background-color: #e4e4e4;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.t_a_center { text-align: center; }
+/*drag and drop input styles ----------end*/

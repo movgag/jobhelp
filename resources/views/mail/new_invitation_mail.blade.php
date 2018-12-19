@@ -1,0 +1,1 @@
+<p>You have new invitation for job "{{ isset($data['job_title']) ? $data['job_title'] : '' }}" !</p>

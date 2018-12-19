@@ -1,0 +1,17 @@
+.val_error { color: red;}
+.val_success { color: darkgreen;}
+.active { color:#14B1BB !important; }
+.agree_span { padding-top: 1px;}
+.company_failed_span, .employee_failed_span { color: red;}
+.employee_detail { font-weight: bold;}
+#single_resume input { color: black; font-weight: 700; font-size: 15px;}
+#single_resume textarea { color: black; font-weight: 500; font-size: 14px;}
+.apply_btn { color: white;}
+.job_title_a:hover { color: #D7DADD; }
+.apply_textarea { height: 300px !important;}
+.portfolio_image { max-height: 250px; padding-bottom: 10px; }
+.single_portfolio_img { max-height: 400px; padding: 10px 20px;}
+
+.search-block { padding: 38px 110px;}
+
+.t_a_center { text-align: center; }

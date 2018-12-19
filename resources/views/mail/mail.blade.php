@@ -1,0 +1,1 @@
+<p>Dear {{ isset($data['name']) ? $data['name'] : 'Client' }}, to activate your account please click <a target="_blank" href="{{ isset($data['verify_url']) ? $data['verify_url'] : '' }}">Here</a></p>

@@ -1,0 +1,1 @@
+<p>You have new application for job "{{ isset($data['job_title']) ? $data['job_title'] : '???' }}"</p>
